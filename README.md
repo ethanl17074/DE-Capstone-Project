@@ -11,6 +11,8 @@ https://github.com/user-attachments/assets/7c3c35e5-824d-4143-95b3-0c9f8e04af76
 ![IMG_20260114_144821](https://github.com/user-attachments/assets/147e3fc5-dc46-460a-92f7-8f3d9a2880ec)
 ![IMG_20260114_150116](https://github.com/user-attachments/assets/05f7283c-ce35-410f-b183-01d2cf22dc7b)
 ![IMG_20260114_144816](https://github.com/user-attachments/assets/7109718a-58b5-4bcc-8ff1-747e29063d38)
+![IMG_20260113_142209](https://github.com/user-attachments/assets/e0556edd-78b2-4ee7-a834-6557530c1f3c)
+
 
 In my project, I learned the skills necessary to use and enable a Pitop to run code while integrating different sensors and outputs. 
 Learning how to use a piTop was difficult at first, but eventually I learned how to utilize different sensors such as ultrasonic, 
