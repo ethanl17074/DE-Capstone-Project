@@ -20,8 +20,8 @@ change its output depending on the states of the LED's.
 ![IMG_20260114_145942](https://github.com/user-attachments/assets/0e464856-7d03-49e0-adff-f943937b0ad0)
 Through this project, besides learning how to work with different sensors, I was also further exposed to python code and the different intricacies that
 come with it different from Java, which is what I have spent all year learning in AP CSA. Despite knowing how to use for loops and if/else statements in Java already, I had to modify and adapt to another coding language when dealing with this project. Variable naming and creation as well as different syntax were also
-important takeaways from my project. When I ran into the problem of having to generate a random light every second while simultaneously running the main game loop, 
-I learned the importance of using threads, in order to smoothly handle two while loops at the same time. 
+important takeaways from my project. When I ran into the problem of having to generate a random light every second while simultaneously running the main game loop, I learned the importance of using threads, in order to smoothly handle two while loops at the same time. 
+[An Intro to Threading in Python – Real Python](https://realpython.com/intro-to-python-threading/)
 
 #Reflection
 This project has been a lot of fun to work on, I learned a lot about Python coding techniques and how to use a Pitop along with the different sensors that
